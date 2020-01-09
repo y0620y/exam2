@@ -103,7 +103,7 @@ export default {
   },
   data() {
     return {
-      url: "http://localhost:3000/albums",
+      url: "http://39.98.152.79:3000/albums",
       maxId: 2,
       album: { album_name: "", price: "" },
       dialogVisible: false,
